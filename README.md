@@ -62,4 +62,4 @@ My hobbies revolve around music. I play the guitar and sing and I am also a dece
 
   
 [![Skandharoots's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skandharoots)](https://github.com/Skandharoots/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skandharoots&layout=compact)
