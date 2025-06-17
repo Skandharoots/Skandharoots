@@ -59,5 +59,7 @@ Some of my repositories are private, however, I am willing to give access to the
 ### Hobbies
 My hobbies revolve around music. I play the guitar and sing and I am also a decent drummer. Additionally I am passionate about finding new niche bands to listen to and share with my friends.
 
+[![Skandharoots's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skandharoots)](https://github.com/Skandharoots/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skandharoots&layout=compact)
   
 
